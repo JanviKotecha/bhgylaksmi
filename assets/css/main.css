@@ -1804,7 +1804,6 @@ p {
 
 .atos__body {
   display: flex;
-  gap: 30px;
 }
 .atos__body .thumb {
   max-width: 450px;
