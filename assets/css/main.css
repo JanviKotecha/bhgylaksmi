@@ -3545,3 +3545,11 @@ p {
     padding: 70px 15px;
   }
 }/*# sourceMappingURL=main.css.map */
+
+.pi{
+  height: 100% !important;
+}
+
+.pricing__itmes{
+height: 100% !important;
+}
