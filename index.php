@@ -11,13 +11,8 @@
 </head>
 
 <body>
-
 <?php  include('include/top.php'); ?>
-
- 
-
- <?php include('include/header.php'); ?>
-
+<?php include('include/header.php'); ?>
 <!--Banner Start-->
 <section class="banner__section owl-theme owl-carousel">
    <div class="banner__items">
@@ -46,9 +41,56 @@
    </div>
 </section>
 <!--Banner End-->
-
 <!--slider logo Here-->
-   
+<section id="clients" class="clients" style="background:white !important;padding-bottom:0px !important">
+                <div class="container c-con">
+                    <div class="horizontal-scrolling-items">
+
+                        <div class="horizontal-scrolling-items__item">
+                            <h3 class="font">TATAMOTORS <span style="color:#f8a30c">NSE</span></h3>
+                        </div>
+
+                        <div class="horizontal-scrolling-items__item">
+                            <h3 class="font">SILVER <span style="color:#f8a30c">NSE</span></h3>
+                        </div>
+
+                        <div class="horizontal-scrolling-items__item">
+                            <h3 class="font">GOLD <span style="color:#f8a30c">NSE</span></h3>
+                        </div>
+                        <div class="horizontal-scrolling-items__item">
+                            <h3 class="font">RELIANCE <span style="color:#f8a30c">NSE</span></h3>
+                        </div>
+                        <div class="horizontal-scrolling-items__item">
+                            <h3 class="font">NIFTY <span style="color:#f8a30c">NSE</span></h3>
+                        </div>
+                        <div class="horizontal-scrolling-items__item">
+                            <h3 class="font">BANKNIFTY <span style="color:#f8a30c">NSE</span></h3>
+                        </div>
+                        <div class="horizontal-scrolling-items__item">
+                            <h3 class="font">TATAMOTORS <span style="color:#f8a30c">NSE</span></h3>
+                        </div>
+
+                        <div class="horizontal-scrolling-items__item">
+                            <h3 class="font">SILVER <span style="color:#f8a30c">NSE</span></h3>
+                        </div>
+
+                        <div class="horizontal-scrolling-items__item">
+                            <h3 class="font">GOLD <span style="color:#f8a30c">NSE</span></h3>
+                        </div>
+                        <div class="horizontal-scrolling-items__item">
+                            <h3 class="font">RELIANCE <span style="color:#f8a30c">NSE</span></h3>
+                        </div>
+                        <div class="horizontal-scrolling-items__item">
+                            <h3 class="font">NIFTY <span style="color:#f8a30c">NSE</span></h3>
+                        </div>
+                        <div class="horizontal-scrolling-items__item">
+                            <h3 class="font">BANKNIFTY <span style="color:#f8a30c">NSE</span></h3>
+                        </div>
+
+                    </div>
+
+                </div>
+            </section>
 <!--slider logo End-->
 
 <!--Choose Start-->
