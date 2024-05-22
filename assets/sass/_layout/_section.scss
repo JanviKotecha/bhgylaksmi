@@ -349,8 +349,8 @@
 
 //Home Consulting Section 
 .consulting__home{
-    background: rgb(67, 58, 193);
-    background: #deb462;
+    // background: rgb(67, 58, 193);
+    background: #fff;
     position: relative;
     .round__shape{
         position: absolute;
@@ -373,8 +373,10 @@
         &:not(:last-child){
             margin-bottom: 20px;
         }
-        background: rgb(67, 58, 193);
-        background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%) !important;
+        
+        background:linear-gradient(90deg, #004270, #deb462);
+        // background: rgb(67, 58, 193);
+        // background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%) !important;
         .content{
             h5{
                 color: var(--white-color) !important;
