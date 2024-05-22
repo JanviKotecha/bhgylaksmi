@@ -178,7 +178,7 @@
                 </div>
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-2">
                     <div class="choose__thumb">
-                        <img src="assets/img/choose/hosting.jpg" alt="hosting">
+                        <img src="assets/img/choose/hosting.png" alt="hosting">
                     </div>
                 </div>
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-5">
@@ -417,98 +417,6 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                     </div>
-                     <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                        <div class="atos__body d-flex flex-column align-items-center">
-                           <h4>
-                              <span class="text-base">Portfolio </span> Tracking
-                           </h4>
-                           <div class="thumb">
-                              <img src="assets/img/tab/tabhost3.png" alt="t-img">
-                           </div>
-                           <div class="content">
-
-                              <p>
-                                 Keep track of your investments in one place, monitor portfolio performance,
-                                 and gain
-                                 insights into your asset allocation and overall investment returns.
-                              </p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-                        <div class="atos__body d-flex flex-column align-items-center">
-                           <h4>
-                              <span class="text-base">Mobile </span> Accessibility
-                           </h4>
-                           <div class="thumb">
-                              <img src="assets/img/tab/tabhost2.png" alt="t-img">
-                           </div>
-                           <div class="content">
-
-                              <p>
-                                 Enjoy the convenience of accessing the app on your smartphone or tablet,
-                                 allowing you
-                                 to
-                                 monitor the market and manage your investments on the go.
-                              </p>
-
-                           </div>
-                        </div>
-                     </div>
-                     <div class="tab-pane fade" id="Trading" role="tabpanel" aria-labelledby="Trading-tab">
-                        <div class="atos__body d-flex flex-column align-items-center">
-                           <h4>
-                              <span class="text-base">Trading and </span> Order Placement
-                           </h4>
-                           <div class="thumb">
-                              <img src="assets/img/tab/4.jpg" alt="t-img">
-                           </div>
-                           <div class="content">
-
-                              <p>
-                                 Allow investors to execute trades efficiently, capitalize on market
-                                 opportunities, and
-                                 take control of their investment decisions with ease and convenience.
-                              </p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="tab-pane fade" id="Upto" role="tabpanel" aria-labelledby="Upto-tab">
-                        <div class="atos__body d-flex flex-column align-items-center">
-                           <h4>
-                              <span class="text-base">Upto 500x Levarge On </span> All Trades
-                           </h4>
-                           <div class="thumb">
-                              <img src="assets/img/tab/5.jpg" alt="t-img">
-                           </div>
-                           <div class="content">
-
-                              <p>
-                                 With up to 500x leverage on trades, traders can potentially magnify their
-                                 profits
-                                 significantly, maximizing returns on investment and taking advantage of
-                                 market
-                                 opportunities.
-                              </p>
-
-                           </div>
-                        </div>
-                     </div>
-                     <div class="tab-pane fade" id="Transparent" role="tabpanel" aria-labelledby="Transparent-tab">
-                        <div class="atos__body d-flex flex-column align-items-center align-items-center">
-                           <h4>
-                              <span class="text-base">Transparent </span> Transactions
-                           </h4>
-                           <div class="thumb">
-                              <img src="assets/img/tab/6.jpg" alt="t-img">
-                           </div>
-                           <div class="content">
-                              <p>We build trust, accountability and credibility. We ensure clear
-                                 communication, ethical
-                                 practices, fostering strong relationships and mitigating risks.</p>
-                           </div>
                         </div>
                      </div>
                   </div>
