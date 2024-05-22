@@ -601,7 +601,7 @@
             </p>
          </div>
          <div class="row g-4">
-            <div class="col-xl-6 col-lg-6 col-md-6">
+            <div class="col-xl-4 col-lg-4 col-md-6">
                <div class="home__price__items active__bg">
                   <div class="thumb">
                      <img src="assets/img/home/pricing/plan1.png" alt="img">
@@ -621,7 +621,7 @@
                   </div>
                </div>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6">
+            <div class="col-xl-4 col-lg-4 col-md-6">
                <div class="home__price__items">
                   <div class="thumb">
                      <img src="assets/img/home/pricing/plan2.png" alt="img">
@@ -641,7 +641,7 @@
                   </div>
                </div>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6">
+            <div class="col-xl-4 col-lg-4 col-md-6">
                <div class="home__price__items">
                   <div class="thumb">
                      <img src="assets/img/home/pricing/plan3.png" alt="img">
@@ -661,26 +661,7 @@
                   </div>
                </div>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6">
-               <div class="home__price__items">
-                  <div class="thumb">
-                     <img src="assets/img/home/pricing/plan4.png" alt="img">
-                  </div>
-                  <div class="content">
-                     <h5>
-                        Search your hosting
-                     </h5>
-                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                     </p>
-                     <a href="#0" class="cmn--btn border__trans">
-                        <span>
-                           Hosting....
-                        </span>
-                     </a>
-                  </div>
-               </div>
-            </div>
+           
          </div>
       </div>
    </section>
