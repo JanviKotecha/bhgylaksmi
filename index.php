@@ -124,7 +124,7 @@
     <!--slider logo End-->
 
     <!--Choose Start-->
-    <section class="choose__section pt-80 pb-80">
+    <section class="choose__section pt-80 pb-80" id="service">
         <div class="container">
             <div class="section__header section-center">
                 <h2 class="text-white wow fadeInDown" data-wow-delay="0.2s">
@@ -244,7 +244,7 @@
     <!--Choose End-->
 
     <!--Atos Hosting Start-->
-    <section class="atos__hosting pt-120 pb-120">
+    <section class="atos__hosting pt-120 pb-120" id="feature">
         <div class="container">
             <div class="section__header section__header__space">
                 <h2 class="wow fadeInDown" data-wow-delay="0.2s">
@@ -575,7 +575,7 @@
       </div>
    </section>
    <!--Feature Section Start-->
-   <section class="users__section pt-120 pb-120">
+   <section class="users__section pt-120 pb-120" id="review">
       <div class="container-fluid">
          <div class="section__header section-center">
             <h2 class="wow fadeInDown text-dark" data-wow-delay="0.2s">

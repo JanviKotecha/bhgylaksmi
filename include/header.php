@@ -14,16 +14,16 @@
             </div>
             <ul class="main-menu">
                <li class="active">
-                  <a href="#0">Home</a>
+                  <a href="index.php">Home</a>
                </li>
                <li>
-                  <a href="about.php">Service</a>
+                  <a href="#service">Service</a>
                </li>
                <li>
-                  <a href="pricing.php">Features</a>
+                  <a href="#feature">Features</a>
                </li>
                <li>
-                  <a href="pricing.php">Review</a>
+                  <a href="#review">Review</a>
                </li>
               
             </ul>

@@ -50,22 +50,22 @@
                   <div class="content-area">
                      <ul class="quick-link">
                         <li>
-                           <a href="#0">
+                           <a href="index.php">
                               <i class="fas fa-caret-right"></i> Home
                            </a>
                         </li>
                         <li>
-                           <a href="#0">
+                           <a href="#service">
                               <i class="fas fa-caret-right"></i> Service
                            </a>
                         </li>
                         <li>
-                           <a href="#0">
+                           <a href="#feature">
                               <i class="fas fa-caret-right"></i> Features
                            </a>
                         </li>
                         <li>
-                           <a href="#0">
+                           <a href="#review">
                               <i class="fas fa-caret-right"></i> Review
                            </a>
                         </li>
