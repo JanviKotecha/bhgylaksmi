@@ -619,9 +619,6 @@
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, neque quod placeat animi dolorem error rem sit necessitatibus, facere unde praesentium ipsum, quisquam esse?
             </p>
-            <div class="client">
-               <img src="assets/img/testimonial/c1.jpg" alt="img">
-            </div>
             <h6>Innesa Devi</h6>
             <span class="designation">
                CEO
@@ -631,9 +628,6 @@
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, neque quod placeat animi dolorem error rem sit necessitatibus, facere unde praesentium ipsum, quisquam esse?
             </p>
-            <div class="client">
-               <img src="assets/img/testimonial/c2.jpg" alt="img">
-            </div>
             <h6>Molina Dev</h6>
             <span class="designation">
                Manager
@@ -643,9 +637,6 @@
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, neque quod placeat animi dolorem error rem sit necessitatibus, facere unde praesentium ipsum, quisquam esse?
             </p>
-            <div class="client">
-               <img src="assets/img/testimonial/c3.jpg" alt="img">
-            </div>
             <h6>Favlo Jr</h6>
             <span class="designation">
                Co-Founder
@@ -655,9 +646,6 @@
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, neque quod placeat animi dolorem error rem sit necessitatibus, facere unde praesentium ipsum, quisquam esse?
             </p>
-            <div class="client">
-               <img src="assets/img/testimonial/c1.jpg" alt="img">
-            </div>
             <h6>Innesa Devi</h6>
             <span class="designation">
                Founder
@@ -667,9 +655,6 @@
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, neque quod placeat animi dolorem error rem sit necessitatibus, facere unde praesentium ipsum, quisquam esse?
             </p>
-            <div class="client">
-               <img src="assets/img/testimonial/c2.jpg" alt="img">
-            </div>
             <h6>Dina Lavlo</h6>
             <span class="designation">
                CEO
@@ -679,9 +664,6 @@
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, neque quod placeat animi dolorem error rem sit necessitatibus, facere unde praesentium ipsum, quisquam esse?
             </p>
-            <div class="client">
-               <img src="assets/img/testimonial/c3.jpg" alt="img">
-            </div>
             <h6>Ajleo Leno</h6>
             <span class="designation">
                Manager
