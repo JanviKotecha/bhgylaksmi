@@ -178,7 +178,7 @@
                 </div>
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-2">
                     <div class="choose__thumb">
-                        <img src="assets/img/choose/hostings.png" alt="hosting">
+                        <img src="assets/img/choose/hosting.jpg" alt="hosting">
                     </div>
                 </div>
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-5">
@@ -330,7 +330,7 @@
                                         <span class="text-base">Portfolio </span> Tracking
                                     </h4>
                                     <div class="thumb">
-                                        <img src="assets/img/tab/tabhost3.png" alt="t-img">
+                                        <img src="assets/img/tab/tabhost2.png" alt="t-img">
                                     </div>
                                     <div class="content">
 
@@ -348,7 +348,7 @@
                                         <span class="text-base">Mobile </span> Accessibility
                                     </h4>
                                     <div class="thumb">
-                                        <img src="assets/img/tab/tabhost2.png" alt="t-img">
+                                        <img src="assets/img/tab/tabhost3.png" alt="t-img">
                                     </div>
                                     <div class="content">
 
@@ -368,7 +368,7 @@
                                         <span class="text-base">Trading and </span> Order Placement
                                     </h4>
                                     <div class="thumb">
-                                        <img src="assets/img/tab/tabhost2.png" alt="t-img">
+                                        <img src="assets/img/tab/4.jpg" alt="t-img">
                                     </div>
                                     <div class="content">
 
@@ -386,7 +386,7 @@
                                         <span class="text-base">Upto 500x Levarge On </span> All Trades
                                     </h4>
                                     <div class="thumb">
-                                        <img src="assets/img/tab/tabhost2.png" alt="t-img">
+                                        <img src="assets/img/tab/5.jpg" alt="t-img">
                                     </div>
                                     <div class="content">
 
@@ -408,7 +408,7 @@
                                         <span class="text-base">Transparent </span> Transactions
                                     </h4>
                                     <div class="thumb">
-                                        <img src="assets/img/tab/tabhost3.png" alt="t-img">
+                                        <img src="assets/img/tab/6.jpg" alt="t-img">
                                     </div>
                                     <div class="content">
                                         <p>We build trust, accountability and credibility. We ensure clear
