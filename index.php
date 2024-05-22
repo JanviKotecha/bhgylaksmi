@@ -444,7 +444,7 @@
         <div class="container">
             <div class="row g-4">
                 <div class="host__domian__wrapper">
-                    <div class="row g-4 align-items-center" style="height : 100% !important;">
+                    <div class="row g-4 align-items-center pih">
                         <div class="col-xl-4 col-lg-4 col-md-6 pi">
                             <div class="pricing__itmes">
                                 <div class="header-pricing">

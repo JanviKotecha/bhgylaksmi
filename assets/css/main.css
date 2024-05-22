@@ -3595,4 +3595,10 @@ height: 100% !important;
     display: flex;
     flex-wrap: wrap-reverse;
   }
+  
+}
+@media(min-width:992px){
+  .pih{
+    height: 100% !important;
+  }
 }
