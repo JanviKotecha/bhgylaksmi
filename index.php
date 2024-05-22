@@ -350,7 +350,7 @@
                               <span class="text-base">Trading and </span> Order Placement
                            </h4>
                            <div class="thumb">
-                              <img src="assets/img/tab/tabhost2.png" alt="t-img">
+                              <img src="assets/img/tab/4.jpg" alt="t-img">
                            </div>
                            <div class="content">
 
@@ -368,7 +368,7 @@
                               <span class="text-base">Upto 500x Levarge On </span> All Trades
                            </h4>
                            <div class="thumb">
-                              <img src="assets/img/tab/tabhost2.png" alt="t-img">
+                              <img src="assets/img/tab/5.jpg" alt="t-img">
                            </div>
                            <div class="content">
 
@@ -389,7 +389,7 @@
                               <span class="text-base">Transparent </span> Transactions
                            </h4>
                            <div class="thumb">
-                              <img src="assets/img/tab/tabhost3.png" alt="t-img">
+                              <img src="assets/img/tab/6.jpg" alt="t-img">
                            </div>
                            <div class="content">
                               <p>We build trust, accountability and credibility. We ensure clear
@@ -569,14 +569,14 @@
             <div class="user__items">
                <p>
                   I have been doing stock market since long, and it has diversified my growth immensely. I don’t
-                  have to invest much time in researching trends, "BHAGYA LAXMI TRADE” do this work very well.
+                  have to invest much time in researching trends, "BHAGYA LAXMI CAPITAL” do this work very well.
                </p>
                <h6>Omar Natarajan</h6>
 
             </div>
             <div class="user__items">
                <p>
-                  "BHAGYA LAXMI TRADE” has helped me not only in terms of return but also in understanding market
+                  "BHAGYA LAXMI CAPITAL" has helped me not only in terms of return but also in understanding market
                   trends and become a better investor with all the insights.
                </p>
                <h6>Hetan Srivastava</h6>
@@ -584,7 +584,7 @@
             </div>
             <div class="user__items">
                <p>
-                  I have been working with “BHAGYA LAXMI TRADE” and they have helped me gain more knowledge with
+                  I have been working with “BHAGYA LAXMI CAPITAL" and they have helped me gain more knowledge with
                   their risk analysis and projections. Their recommendations are turning profitable for me.
                </p>
                <h6>Jatin Mehrotra</h6>
