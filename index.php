@@ -245,28 +245,28 @@
                      <li class="nav-item" role="presentation">
                         <button class="nav-link active" id="home-tab10" data-bs-toggle="tab" data-bs-target="#home"
                            type="button" role="tab" aria-controls="home" aria-selected="true">
-                           <span class="icon"><i class="fa-solid fa-desktop"></i></span>
+                           <span class="icon"><i class="fa-solid fa-clock"></i></span>
                            <span>Real-Time Market Data</span>
                         </button>
                      </li>
                      <li class="nav-item" role="presentation">
                         <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile"
                            type="button" role="tab" aria-controls="profile" aria-selected="false">
-                           <span class="icon"><i class="fa-solid fa-cloud"></i></span>
+                           <span class="icon"><i class="fa-solid fa-briefcase"></i></span>
                            <span>Portfolio Tracking</span>
                         </button>
                      </li>
                      <li class="nav-item" role="presentation">
                         <button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact"
                            type="button" role="tab" aria-controls="contact" aria-selected="false">
-                           <span class="icon"><i class="fa-sharp fa-solid fa-coins"></i></span>
+                           <span class="icon"><i class="fa-solid fa-mobile-screen"></i></span>
                            <span>Mobile Accessibility</span>
                         </button>
                      </li>
                      <li class="nav-item" role="presentation">
                         <button class="nav-link" id="Trading-tab" data-bs-toggle="tab" data-bs-target="#Trading"
                            type="button" role="tab" aria-controls="Trading" aria-selected="true">
-                           <span class="icon"><i class="fa-solid fa-cloud"></i></span>
+                           <span class="icon"><i class="fa-solid fa-display"></i></span>
                            <span>Trading and Order Placement</span>
                         </button>
                      </li>
@@ -280,7 +280,7 @@
                      <li class="nav-item" role="presentation">
                         <button class="nav-link" id="Transparent-tab" data-bs-toggle="tab" data-bs-target="#Transparent"
                            type="button" role="tab" aria-controls="Transparent" aria-selected="true">
-                           <span class="icon"><i class="fa-solid fa-cloud"></i></span>
+                           <span class="icon"><i class="fa-solid fa-book"></i></span>
                            <span>Transparent Transactions</span>
                         </button>
                      </li>
@@ -475,7 +475,7 @@
         <div class="container">
             <div class="row g-4 align-items-center">
                 <div class="col-lg-12">
-                    <div class="w-80">
+                    <div class="w-80 text-center">
                         <h4 class="text-black wow fadeInDown" data-wow-delay="0.2s">
                             USER FRIENDLY INTERFACE AND <span class="text-base">VERY EASY TO USE TRADE APP</span>
                         </h4>
