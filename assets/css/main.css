@@ -1351,8 +1351,8 @@ p {
 }
 
 .consulting__home {
-  background: rgb(67, 58, 193);
-  background: #deb462;
+  /* background: rgb(67, 58, 193); */
+  background: #fff;
   position: relative;
 }
 .consulting__home .round__shape {
@@ -1374,8 +1374,9 @@ p {
   box-shadow: none !important;
   padding: relative;
   z-index: 1;
-  background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%) !important;
+  background:linear-gradient(90deg, #004270, #deb462);
+  /* background: rgb(67, 58, 193);
+  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%) !important; */
 }
 .consulting__home .home__price__items:not(:last-child) {
   margin-bottom: 20px;
@@ -1532,7 +1533,8 @@ p {
   height: 100%;
 }
 .home__pricing .home__price__items {
-  background: linear-gradient(white, white) padding-box, linear-gradient(to right, #00cdfb, rgb(67, 58, 193)) border-box;
+  /* background: linear-gradient(white, white) padding-box, linear-gradient(to right, #00cdfb, rgb(67, 58, 193)) border-box; */
+  background:linear-gradient(90deg, #004270, #deb462);
   border-radius: 12px;
   border: 2.1px solid transparent;
   padding: 25px 30px 25px;
@@ -1548,8 +1550,8 @@ p {
   width: 0px;
   height: 0px;
   content: "";
-  background: rgb(67, 58, 193);
-  background: #deb462;
+  /* background: rgb(67, 58, 193); */
+  background: linear-gradient(90deg, #deb462, #004270);
   border-radius: 10px;
   transition: all 0.4s;
 }
