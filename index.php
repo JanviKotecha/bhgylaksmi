@@ -418,8 +418,101 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
+                     </div>
+                     <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                        <div class="atos__body d-flex flex-column align-items-center">
+                           <h4>
+                              <span class="text-base">Portfolio </span> Tracking
+                           </h4>
+                           <div class="thumb">
+                              <img src="assets/img/tab/tabhost3.png" alt="t-img">
+                           </div>
+                           <div class="content">
+
+                              <p>
+                                 Keep track of your investments in one place, monitor portfolio performance,
+                                 and gain
+                                 insights into your asset allocation and overall investment returns.
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                        <div class="atos__body d-flex flex-column align-items-center">
+                           <h4>
+                              <span class="text-base">Mobile </span> Accessibility
+                           </h4>
+                           <div class="thumb">
+                              <img src="assets/img/tab/tabhost2.png" alt="t-img">
+                           </div>
+                           <div class="content">
+
+                              <p>
+                                 Enjoy the convenience of accessing the app on your smartphone or tablet,
+                                 allowing you
+                                 to
+                                 monitor the market and manage your investments on the go.
+                              </p>
+
+                           </div>
+                        </div>
+                     </div>
+                     <div class="tab-pane fade" id="Trading" role="tabpanel" aria-labelledby="Trading-tab">
+                        <div class="atos__body d-flex flex-column align-items-center">
+                           <h4>
+                              <span class="text-base">Trading and </span> Order Placement
+                           </h4>
+                           <div class="thumb">
+                              <img src="assets/img/tab/4.jpg" alt="t-img">
+                           </div>
+                           <div class="content">
+
+                              <p>
+                                 Allow investors to execute trades efficiently, capitalize on market
+                                 opportunities, and
+                                 take control of their investment decisions with ease and convenience.
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="tab-pane fade" id="Upto" role="tabpanel" aria-labelledby="Upto-tab">
+                        <div class="atos__body d-flex flex-column align-items-center">
+                           <h4>
+                              <span class="text-base">Upto 500x Levarge On </span> All Trades
+                           </h4>
+                           <div class="thumb">
+                              <img src="assets/img/tab/5.jpg" alt="t-img">
+                           </div>
+                           <div class="content">
+
+                              <p>
+                                 With up to 500x leverage on trades, traders can potentially magnify their
+                                 profits
+                                 significantly, maximizing returns on investment and taking advantage of
+                                 market
+                                 opportunities.
+                              </p>
+
+                           </div>
+                        </div>
+                     </div>
+                     <div class="tab-pane fade" id="Transparent" role="tabpanel" aria-labelledby="Transparent-tab">
+                        <div class="atos__body d-flex flex-column align-items-center align-items-center">
+                           <h4>
+                              <span class="text-base">Transparent </span> Transactions
+                           </h4>
+                           <div class="thumb">
+                              <img src="assets/img/tab/6.jpg" alt="t-img">
+                           </div>
+                           <div class="content">
+                              <p>We build trust, accountability and credibility. We ensure clear
+                                 communication, ethical
+                                 practices, fostering strong relationships and mitigating risks.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
         </div>
     </section>
@@ -549,77 +642,77 @@
             <img src="assets/img/sharp-home/shape.png" alt="shape-img">
         </div>
     </section>
-    <!--Feature Section End-->
-    <section class="complate__section pt-80 pb-80">
-        <div class="container">
-            <div class="complate__wrap">
-                <h3>
-                    THE LATEST VERSION OF <span class="text-base">OUR APP</span>
-                </h3>
-                <p>
-                    Download the latest version of our app to access new features, enhanced performance, and a seamless
-                    user experience, ensuring you stay up to date with the best trading experience possible.
-                </p>
-                <a href="#0">
-                    <span>
-                        <img src="assets/img/banner/appstore.png" alt="">
-                    </span>
-                </a>
-                <a href="#0">
-                    <span>
-                        <img src="assets/img/banner/playstore.png" alt="">
-                    </span>
-                </a>
-            </div>
-        </div>
-    </section>
-    <!--Feature Section Start-->
-    <section class="users__section pt-120 pb-120">
-        <div class="container-fluid">
-            <div class="section__header section-center">
-                <h2 class="text-dark wow fadeInDown" data-wow-delay="0.2s">
-                    CUSTOMER <span class="text-base">REVIEW</span>
-                </h2>
-                <p class="text-dark wow fadeInDown" data-wow-delay="0.4s">
-                    What our Customers are Saying
-                </p>
-            </div>
-            <div class="user__wrap owl-theme owl-carousel">
-                <div class="user__items">
-                    <p>
-                        I have been doing stock market since long, and it has diversified my growth immensely. I don’t
-                        have to invest much time in researching trends, "BHAGYA LAXMI TRADE” do this work very well.
-                    </p>
-                    <h6>Omar Natarajan</h6>
-
-                </div>
-                <div class="user__items">
-                    <p>
-                        "BHAGYA LAXMI TRADE” has helped me not only in terms of return but also in understanding market
-                        trends and become a better investor with all the insights.
-                    </p>
-                    <h6>Hetan Srivastava</h6>
-
-                </div>
-                <div class="user__items">
-                    <p>
-                        I have been working with “BHAGYA LAXMI TRADE” and they have helped me gain more knowledge with
-                        their risk analysis and projections. Their recommendations are turning profitable for me.
-                    </p>
-                    <h6>Jatin Mehrotra</h6>
-
-                </div>
-
+   <!--Feature Section End-->
+   <section class="complate__section pt-80 pb-80">
+      <div class="container">
+         <div class="complate__wrap">
+            <h3>
+               THE LATEST VERSION OF <span class="text-base">OUR APP</span>
+            </h3>
+            <p>
+               Download the latest version of our app to access new features, enhanced performance, and a seamless
+               user experience, ensuring you stay up to date with the best trading experience possible.
+            </p>
+            <a href="#0">
+               <span>
+                  <img src="assets/img/banner/appstore.png" alt="">
+               </span>
+            </a>
+            <a href="#0">
+               <span>
+                  <img src="assets/img/banner/playstore.png" alt="">
+               </span>
+            </a>
+         </div>
+      </div>
+   </section>
+   <!--Feature Section Start-->
+   <section class="users__section pt-120 pb-120">
+      <div class="container-fluid">
+         <div class="section__header section-center">
+            <h2 class="text-white wow fadeInDown" data-wow-delay="0.2s">
+               CUSTOMER <span class="text-base">REVIEW</span>
+            </h2>
+            <p class="text-white wow fadeInDown" data-wow-delay="0.4s">
+               What our Customers are Saying
+            </p>
+         </div>
+         <div class="user__wrap owl-theme owl-carousel">
+            <div class="user__items">
+               <p>
+                  I have been doing stock market since long, and it has diversified my growth immensely. I don’t
+                  have to invest much time in researching trends, "BHAGYA LAXMI CAPITAL” do this work very well.
+               </p>
+               <h6>Omar Natarajan</h6>
 
             </div>
-        </div>
-    </section>
-    <!--Feature Section End-->
+            <div class="user__items">
+               <p>
+                  "BHAGYA LAXMI CAPITAL" has helped me not only in terms of return but also in understanding market
+                  trends and become a better investor with all the insights.
+               </p>
+               <h6>Hetan Srivastava</h6>
 
-    <!--Footer Here-->
-    <?php include ('include/footer.php'); ?>
-    <!--Footer End-->
-    <?php include ('include/footer_script.php'); ?>
+            </div>
+            <div class="user__items">
+               <p>
+                  I have been working with “BHAGYA LAXMI CAPITAL" and they have helped me gain more knowledge with
+                  their risk analysis and projections. Their recommendations are turning profitable for me.
+               </p>
+               <h6>Jatin Mehrotra</h6>
+
+            </div>
+
+
+         </div>
+      </div>
+   </section>
+   <!--Feature Section End-->
+
+   <!--Footer Here-->
+   <?php include ('include/footer.php'); ?>
+   <!--Footer End-->
+   <?php include ('include/footer_script.php'); ?>
 
 </body>
 

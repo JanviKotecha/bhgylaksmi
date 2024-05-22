@@ -2,23 +2,25 @@
    <div class="container">
       <div class="footer-top pb-120">
          <div class="row g-4">
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 ">
+            <div class="col-xl-5 col-lg-4 col-md-6 col-sm-6 ">
                <div class="widget-items">
                   <div class="footer-head">
                      <a href="index.html" class="footer-logo">
-                        <img src="assets/img/logo/logo.png" alt="f-logo" style="width:50%">
+                        <img src="assets/img/logo/logo2.png" alt="f-logo" style="width:50%">
                      </a>
                   </div>
                   <div class="content-area">
                      <p>
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam voluptate minus minima.
+                        
+                     Embark on a journey of endless <br> CAPITAL opportunities with our app.
+                       
                      </p>
                      <ul class="social">
-                        <li>
+                        <!-- <li>
                            <a href="#" class="icon">
                               <i class="fa-brands fa-facebook-f"></i>
                            </a>
-                        </li>
+                        </li> -->
                         <li>
                            <a href="#" class="icon">
                               <i class="fa-brands fa-instagram"></i>
@@ -26,7 +28,7 @@
                         </li>
                         <li>
                            <a href="#" class="icon">
-                              <i class="fa-brands fa-twitter"></i>
+                              <i class="fa-brands fa-telegram"></i>
                            </a>
                         </li>
                         <li>
@@ -38,7 +40,7 @@
                   </div>
                </div>
             </div>
-            <div class="col-xl-2 col-lg-4 col-md-6 col-sm-6 ">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 ">
                <div class="widget-items">
                   <div class="footer-head">
                      <h5 class="title">
@@ -49,77 +51,25 @@
                      <ul class="quick-link">
                         <li>
                            <a href="#0">
-                              <i class="fas fa-caret-right"></i> Shared Hosting
+                              <i class="fas fa-caret-right"></i> Home
                            </a>
                         </li>
                         <li>
                            <a href="#0">
-                              <i class="fas fa-caret-right"></i> WordPress Hosting
+                              <i class="fas fa-caret-right"></i> Service
                            </a>
                         </li>
                         <li>
                            <a href="#0">
-                              <i class="fas fa-caret-right"></i> VPS Hosting
+                              <i class="fas fa-caret-right"></i> Features
                            </a>
                         </li>
                         <li>
                            <a href="#0">
-                              <i class="fas fa-caret-right"></i> Reseller Hosting
+                              <i class="fas fa-caret-right"></i> Review
                            </a>
                         </li>
-                        <li>
-                           <a href="#0">
-                              <i class="fas fa-caret-right"></i> Dedicated Server
-                           </a>
-                        </li>
-                        <li>
-                           <a href="#0">
-                              <i class="fas fa-caret-right"></i> Window Hosting
-                           </a>
-                        </li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 ">
-               <div class="widget-items">
-                  <div class="footer-head">
-                     <h5 class="title">
-                        Domains
-                     </h5>
-                  </div>
-                  <div class="content-area">
-                     <ul class="quick-link">
-                        <li>
-                           <a href="#0">
-                              <i class="fas fa-caret-right"></i> Register Domains
-                           </a>
-                        </li>
-                        <li>
-                           <a href="#0">
-                              <i class="fas fa-caret-right"></i> Transfer
-                           </a>
-                        </li>
-                        <li>
-                           <a href="#0">
-                              <i class="fas fa-caret-right"></i> Transfer Domains
-                           </a>
-                        </li>
-                        <li>
-                           <a href="#0">
-                              <i class="fas fa-caret-right"></i> Manage Domains
-                           </a>
-                        </li>
-                        <li>
-                           <a href="#0">
-                              <i class="fas fa-caret-right"></i> Personal 
-                           </a>
-                        </li>
-                        <li>
-                           <a href="#0">
-                              <i class="fas fa-caret-right"></i> Premium Domains
-                           </a>
-                        </li>
+                        
                      </ul>
                   </div>
                </div>
@@ -158,18 +108,13 @@
          </div>
       </div>
       <div class="footer-bottom">
-         <p>
-            Copyright &copy; 2024 Atos | Designed by <a href="#0">NextGenerationDev</a>
+         <p style="color:#fff">
+            Copyright &copy; 2024 BHAGYA LAXMI CAPITAL 
          </p>
          <ul class="footer-bottom-link">
             <li>
                <a href="#0">
-                  Privacy
-               </a>
-            </li>
-            <li>
-               <a href="#0">
-                  Terms & Conditions
+                  Privacy Terms & Conditions
                </a>
             </li>
          </ul>
