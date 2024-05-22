@@ -578,10 +578,10 @@
    <section class="users__section pt-120 pb-120">
       <div class="container-fluid">
          <div class="section__header section-center">
-            <h2 class="text-white wow fadeInDown" data-wow-delay="0.2s">
+            <h2 class="wow fadeInDown text-dark" data-wow-delay="0.2s">
                CUSTOMER <span class="text-base">REVIEW</span>
             </h2>
-            <p class="text-white wow fadeInDown" data-wow-delay="0.4s">
+            <p class="text-dark wow fadeInDown" data-wow-delay="0.4s">
                What our Customers are Saying
             </p>
          </div>
