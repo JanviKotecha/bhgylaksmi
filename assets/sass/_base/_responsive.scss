@@ -115,10 +115,10 @@
 
 //Header Section Responsive Start
 @media screen and (max-width: 991px) {
-	.header-section{
-		background: rgb(67,58,193);
+	.header-section {
+		background: #003059;
 		border-bottom: unset;
-		background: linear-gradient(90deg, rgba(0,215,255,1) 0%, rgba(0,215,255,1) 30%, rgba(67,58,193,1) 100%);
+		background: linear-gradient(90deg, #004270 0%, #004270 30%, #001838 100%);
 	}
 	.main-menu {
 		position: absolute;
@@ -147,25 +147,25 @@
 				margin-right: 0 !important;
 				margin-bottom: 15px;
 			}
-			a{
+			a {
 				display: block;
 				padding: 10px 10px 14px;
 				font-size: 17px;
 			}
-			.sub-menu{
+			.sub-menu {
 				transform: translateY(0px) !important;
 				margin: 0px 10px 15px 20px !important;
-				li{
+				li {
 					margin-bottom: 10px;
-					a{
+					a {
 						padding: 12px 15px !important;
 					}
-					.sub-two{
+					.sub-two {
 						position: static !important;
 						width: 100% !important;
 						padding: 15px 10px 20px 30px;
-						li{
-							a{
+						li {
+							a {
 								padding: 10px 15px !important;
 								display: block;
 							}
@@ -174,15 +174,15 @@
 				}
 			}
 		}
-		.btn--items{
+		.btn--items {
 			box-shadow: none;
 			border: unset;
-			.cmn--btn{
+			.cmn--btn {
 				width: 140px;
 				text-align: center;
 				display: block !important;
-				background: rgb(67, 58, 193);
-    			background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+				background: #003059;
+				background: linear-gradient(90deg, #003059 0%, #001838 30%, #004270 100%);
 			}
 		}
 		.active {
@@ -232,16 +232,17 @@
 				}
 			}
 		}
-		&:hover{
+		&:hover {
 			cursor: pointer;
 		}
 	}
-	.header-wrapper{
-		.cmn--btn{
+	.header-wrapper {
+		.cmn--btn {
 			display: none;
 		}
 	}
 }
+
 //Header Section Responsive End
 
 
