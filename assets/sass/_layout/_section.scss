@@ -1134,10 +1134,12 @@
 
 //unlimited feature 
 .users__section{
-    background: url(../../assets/img/testimonial/user1.png) no-repeat center center;
-    background-size: cover;
-    background-attachment: fixed;
-    position: relative;
+    // background: url(../../assets/img/testimonial/user1.png) no-repeat center center;
+    // background-size: cover;
+    // background-attachment: fixed;
+    // position: relative;
+    background: #fff;
+    color: #000;
     &::before{
         position: absolute;
         inset: 0;
@@ -1198,7 +1200,7 @@
     }
     p{
         color: var(--black-color);
-        font-size: 20px;
+        font-size: 14px;
         font-weight: 500;
         margin-bottom: 25px;
         position: relative;
@@ -1499,32 +1501,32 @@
 //Faq feature 
 
 //Sponsor section
-.sponsor__section{
-    position: relative;
-    &::before{
-        position: absolute;
-        top: 0;
-        right: 0;
-        content: "";
-        background-color: var(--theme-color);
-        width: 10%;
-        height: 100%;
-        -webkit-clip-path: polygon(100% 0, 0% 100%, 100% 100%);
-        clip-path: polygon(100% 0, 0% 100%, 100% 100%);
-        border-radius: 10px;
-    }
-    &::after{
-        position: absolute;
-        top: 0;
-        left: 0;
-        content: "";
-        background-color: var(--theme-color);
-        width: 10%;
-        height: 100%;
-        clip-path: polygon(0 0, 0 100%, 100% 100%);
-        border-radius: 10px;
-    }
-}
+// .sponsor__section{
+//     position: relative;
+//     &::before{
+//         position: absolute;
+//         top: 0;
+//         right: 0;
+//         content: "";
+//         background-color: var(--theme-color);
+//         width: 10%;
+//         height: 100%;
+//         -webkit-clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+//         clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+//         border-radius: 10px;
+//     }
+//     &::after{
+//         position: absolute;
+//         top: 0;
+//         left: 0;
+//         content: "";
+//         background-color: var(--theme-color);
+//         width: 10%;
+//         height: 100%;
+//         clip-path: polygon(0 0, 0 100%, 100% 100%);
+//         border-radius: 10px;
+//     }
+// }
 .spnsor__items{
     box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
     border-radius: 10px;
