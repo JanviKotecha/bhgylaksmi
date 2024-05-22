@@ -245,7 +245,7 @@
 //Home Sharp-Freature Section 
 .sharp__feature{
     background: rgb(67, 58, 193);
-    background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+    background: #deb462;
     position: relative;
     .round__shape{
         position: absolute;
@@ -275,7 +275,7 @@
         z-index: 1;
         border: unset;
         background: rgb(67, 58, 193);
-        background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+        background: #deb462;
         h6{
             margin-bottom: 15px;
             a{
@@ -295,14 +295,14 @@
 //Home Sharp-pricing Section 
 .pricing__sharp{
     background: rgb(67, 58, 193);
-    background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+    background: #deb462;
     position: relative;
     .pricing__itmes{
         position: relative;
         z-index: 1;
         background: rgb(67, 58, 193);
         transform: skewX(-0deg);
-        background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+        background: #deb462;
         &::before{
             display: none;
         }
@@ -350,7 +350,7 @@
 //Home Consulting Section 
 .consulting__home{
     background: rgb(67, 58, 193);
-    background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+    background: #deb462;
     position: relative;
     .round__shape{
         position: absolute;
@@ -458,7 +458,7 @@
 .sharp__testimonial{
     background: rgb(67, 58, 193);
     position: relative;
-    background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+    background: #deb462;
     .user__items{
         background: rgb(67, 58, 193);
         border: unset !important;
@@ -499,7 +499,7 @@
 .sharp__online{
     background: rgb(67, 58, 193);
     position: relative;
-    background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+    background: #deb462;
 }
 //Home sharp online Section 
 
@@ -735,7 +735,7 @@
         position: absolute;
         inset: 0;
         content: "";
-        background-color: rgba(32, 71, 85, 0.7);
+        background-color: rgb(32 71 85 / 92%);
         backdrop-filter: blur(6px);
     }
 }
@@ -1350,7 +1350,7 @@
 .home__server__section{
     position: relative;
     background: rgb(67, 58, 193);
-    background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+    background: #deb462;
     .server__items{
         height: 100%;
         .cmn--btn{
@@ -1397,7 +1397,7 @@
             padding: 14px 20px 13px;
             border-radius: 1px;
             background: rgb(67, 58, 193);
-            background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+            background: #deb462;
         }
     }
 }
@@ -1407,7 +1407,7 @@
 .home__complate__section{
     position: relative;
     background: rgb(67, 58, 193);
-    background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+    background: #deb462;
     .complate__wrap{
         position: relative;
         text-align: center;
@@ -1423,7 +1423,7 @@
         }
         .cmn--btn{
             // background: rgb(67, 58, 193);
-            // background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+            // background: #deb462;
         }
     }
     .h__bottom{
@@ -1690,7 +1690,7 @@
         height: 65px;
         text-align: center;
         line-height: 65px;
-        background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+        background: #deb462;
         border-radius: 50%;
         i{
             color: var(--white-color);

@@ -93,11 +93,11 @@ $(document).ready(function () {
 	});
 	$(".user__wrap").owlCarousel({
 		loop: true,
-		margin: 15,
+		margin: 20,
 		smartSpeed: 900,
 		autoplayTimeout: 500,
 		autoplay: true,
-		nav: false,
+		nav: true,
 		dots: true,
 		responsiveClass: true,
 		navText: [
@@ -112,16 +112,16 @@ $(document).ready(function () {
 				items: 1,
 			},
 			767: {
-				items: 2,
+				items: 3,
 			},
 			991: {
-				items: 2,
+				items: 3,
 			},
 			1199: {
-				items: 2,
+				items: 3,
 			},
 			1399: {
-				items: 2,
+				items: 3,
 			},
 		},
 	});

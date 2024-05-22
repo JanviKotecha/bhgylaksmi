@@ -43,6 +43,9 @@
                      </div>
                   </div>
                </div>
+               <div class="col-xl-4 col-lg-4 col-md-4" style="z-index:999">
+                  <img src="assets/img/banner/bg.png" alt="hosting">
+               </div>
             </div>
          </div>
       </div>
@@ -414,8 +417,6 @@
                         HOW IT <span class="text-base">WORKS</span>
                      </h2>
                   </div>
-
-
                </div>
             </div>
          </div>
@@ -469,66 +470,66 @@
    <!--Domain Hosting End-->
 
    <!--Feature Section Start-->
-   <section class="server__section pt-120 pb-120">
-      <div class="container">
-         <div class="row g-4">
-            <div class="col-xxl-5">
-               <div class="server__left__wrap">
-                  <div class="section__header">
-                     <h4 class="text-black wow fadeInDown" data-wow-delay="0.2s">
-                        USER FRIENDLY INTERFACE AND <span class="text-base">VERY EASY TO USE TRADE APP</span>
-                     </h4>
-                     <p class="text-black wow fadeInDown" data-wow-delay="0.4s">
-                        Our user-friendly interface makes trading a breeze, providing a seamless and intuitive
-                        experience.
-                        With our easy-to-use trade app, anyone can navigate the platform effortlessly,
-                        empowering users to make informed investment decisions.
-                     </p>
-                  </div>
-               </div>
+ <!--Feature Section Start-->
+ <section class="home__pricing consulting__home pt-80 pb-80">
+        <div class="container">
+            <div class="row g-4 align-items-center">
+                <div class="col-lg-12">
+                    <div class="w-80">
+                        <h4 class="text-black wow fadeInDown" data-wow-delay="0.2s">
+                            USER FRIENDLY INTERFACE AND <span class="text-base">VERY EASY TO USE TRADE APP</span>
+                        </h4>
+                        <p class="text-black wow fadeInDown" data-wow-delay="0.4s">
+                            Our user-friendly interface makes trading a breeze, providing a seamless and intuitive
+                            experience.
+                            With our easy-to-use trade app, anyone can navigate the platform effortlessly,
+                            empowering users to make informed investment decisions.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="consulting__wrap">
+                        <!-- Card 1 -->
+                        <div class="home__price__items">
+                            <div class="thumb">
+                                <i class="fa fa-paint-brush" aria-hidden="true"></i> <!-- Intuitive Design Icon -->
+                            </div>
+                            <div class="content">
+                                <h5>Intuitive Design</h5>
+                            </div>
+                        </div>
+                        <!-- Card 2 -->
+                        <div class="home__price__items">
+                            <div class="thumb">
+                                <i class="fa fa-user-plus" aria-hidden="true"></i> <!-- Simple Account Setup Icon -->
+                            </div>
+                            <div class="content">
+                                <h5>Simple Account Setup</h5>
+                            </div>
+                        </div>
+                        <!-- Card 3 -->
+                        <div class="home__price__items">
+                            <div class="thumb">
+                                <i class="fa fa-exchange-alt" aria-hidden="true"></i>
+                                <!-- Simplified Trading Process Icon -->
+                            </div>
+                            <div class="content">
+                                <h5>Simplified Trading Process</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="consulting__thumb">
+                        <img src="assets/img/sharp-home/consulting/consul.png" alt="con-img">
+                    </div>
+                </div>
             </div>
-            <div class="col-xxl-7">
-               <div class="sponsor__section ">
-                  <div class="">
-                     <div class="row">
-                        <div class="col-xxl-4 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-xs-6">
-                           <div class="spnsor__items">
-                              <div class="user">
-                                 <img src="assets/img/server/user.png" alt="srver-img" style="width:50%;padding:20px">
-                              </div>
-                              <a href="#0">
-                                 <h3 class="font">Intuitive <span style="color:#f8a30c">Design</span></h3>
-                              </a>
-                           </div>
-                        </div>
-                        <div class="col-xxl-4 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-xs-6">
-                           <div class="spnsor__items">
-                              <div class="user">
-                                 <img src="assets/img/server/user.png" alt="srver-img" style="width:50%;padding:20px">
-                              </div>
-                              <a href="#0">
-                                 <h3 class="font">Simple Account <span style="color:#f8a30c">Setup</span>
-                                 </h3>
-                              </a>
-                           </div>
-                        </div>
-                        <div class="col-xxl-4 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-xs-6">
-                           <div class="spnsor__items">
-                              <div class="user">
-                                 <img src="assets/img/server/user.png" alt="srver-img" style="width:50%;padding:20px">
-                              </div>
-                              <a href="#0">
-                                 <h3 class="font">Simplified <span style="color:#f8a30c">Trading</span></h3>
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
+        </div>
+        <div class="round__shape">
+            <img src="assets/img/sharp-home/shape.png" alt="shape-img">
+        </div>
+    </section>
    <!--Feature Section End-->
    <section class="complate__section pt-80 pb-80">
       <div class="container">

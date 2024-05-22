@@ -79,7 +79,7 @@
 						width: 60px;
 						height: 60px;
 						background: rgb(67, 58, 193);
-						background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+						background: #deb462
 						line-height: 60px;
 						text-align: center;
 						border-radius: 5px;
@@ -116,7 +116,7 @@
 						display: block;
 						border-radius: 4px;
 						background: rgb(67, 58, 193);
-						background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+						background: #deb462
 						border: unset;
 						i{
 							color: var(--white-color);
@@ -191,7 +191,7 @@
 .sharp__footer{
 	background: rgb(67, 58, 193);
     position: relative;
-    background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+    background: #deb462;
 	.round__shape{
         position: absolute;
         bottom: 0;

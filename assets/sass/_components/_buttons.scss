@@ -7,7 +7,7 @@
 	font-weight: 500;
 	color:var(--white-color);
 	text-transform: capitalize;
-	background: linear-gradient(90deg, #004270 0%, #004270 30%, #001838 100%);
+	background: linear-gradient(90deg, #004270, #deb462);
 	display: inline-block;
   	transform: skew(-21deg);
 	span{
@@ -16,7 +16,7 @@
 	}
 	&:hover{
 		color: var(--white-color);
-		background: linear-gradient(#f57171, #7c84f4);
+		background: #deb462;
 	}
 }
 

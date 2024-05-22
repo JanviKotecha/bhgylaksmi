@@ -65,7 +65,7 @@ Section css
 */
 /*CSS Table Of Content Ends Here*/
 :root {
-  --theme-color: #60d4e3;
+  --theme-color: #deb462;
   --home-theme: #00cdfb;
   --theme-one: #fa8fc1;
   --theme-two: #99754566;
@@ -259,7 +259,7 @@ p {
 /*-Responsive-*/
 /*-Responsive-*/
 .text-base {
-  color: #60d4e3;
+  color: #deb462;
 }
 
 .text-base-2 {
@@ -428,7 +428,7 @@ p {
   width: 60px;
   height: 60px;
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
   line-height: 60px;
   text-align: center;
   border-radius: 5px;
@@ -468,7 +468,7 @@ p {
   display: block;
   border-radius: 4px;
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
   border: unset;
 }
 .footer-top .widget-items .content-area .social li .icon:hover {
@@ -482,7 +482,7 @@ p {
 }
 .footer-top .widget-items .content-area .social li .icon:hover {
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(58, 139, 193) 0%, rgb(4, 108, 131) 30%, rgb(52, 46, 208) 100%);
+  background: #052f5b;
 }
 
 .footer-bottom {
@@ -539,7 +539,7 @@ p {
 .sharp__footer {
   background: rgb(67, 58, 193);
   position: relative;
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
 }
 .sharp__footer .round__shape {
   position: absolute;
@@ -598,12 +598,12 @@ p {
 
 .home__header.menu-fixed {
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(0, 215, 255) 0%, rgb(0, 215, 255) 30%, rgb(67, 58, 193) 100%);
+  background: #052f5b;;
 }
 
 .sharp__header.menu-fixed {
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
 }
 
 .menu-fixed {
@@ -613,7 +613,7 @@ p {
   width: 100%;
   z-index: 999999;
   transition: all 0.9s;
-  background: linear-gradient(90deg, rgb(0, 215, 255) 0%, rgb(0, 215, 255) 30%, rgb(67, 58, 193) 100%);
+  background: #052f5b;;
   border-bottom: unset;
 }
 
@@ -714,7 +714,7 @@ p {
 /*----Menu Header Start-----*/
 /*----Scroll Top To Bottom Start-----*/
 #progress {
-  background: linear-gradient(90deg, rgb(0, 215, 255) 0%, rgb(0, 215, 255) 30%, rgb(67, 58, 193) 100%);
+  background: #052f5b;;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -767,7 +767,7 @@ p {
   position: absolute;
   inset: 0;
   content: "";
-  background: rgba(27, 24, 24, 0.3);
+  background: #052f5b !important;
 }
 
 .thumb__itemsone {
@@ -820,7 +820,7 @@ p {
 
 .home__section {
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
 }
 
 .home__items {
@@ -1242,7 +1242,7 @@ p {
   height: 0px;
   content: "";
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
   border-radius: 10px;
   transition: all 0.4s;
 }
@@ -1256,7 +1256,7 @@ p {
 
 .sharp__feature {
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
   position: relative;
 }
 .sharp__feature .round__shape {
@@ -1288,7 +1288,7 @@ p {
   z-index: 1;
   border: unset;
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
 }
 .sharp__feature .home__feature__items h6 {
   margin-bottom: 15px;
@@ -1305,7 +1305,7 @@ p {
 
 .pricing__sharp {
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
   position: relative;
 }
 .pricing__sharp .pricing__itmes {
@@ -1313,7 +1313,7 @@ p {
   z-index: 1;
   background: rgb(67, 58, 193);
   transform: skewX(0deg);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
 }
 .pricing__sharp .pricing__itmes::before {
   display: none;
@@ -1352,7 +1352,7 @@ p {
 
 .consulting__home {
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
   position: relative;
 }
 .consulting__home .round__shape {
@@ -1451,7 +1451,7 @@ p {
 .sharp__testimonial {
   background: rgb(67, 58, 193);
   position: relative;
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
 }
 .sharp__testimonial .user__items {
   background: rgb(67, 58, 193);
@@ -1489,13 +1489,13 @@ p {
 .sharp__online {
   background: rgb(67, 58, 193);
   position: relative;
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
 }
 
 .home__domain {
   position: relative;
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
 }
 .home__domain .h__bottom {
   position: absolute;
@@ -1549,7 +1549,7 @@ p {
   height: 0px;
   content: "";
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
   border-radius: 10px;
   transition: all 0.4s;
 }
@@ -1592,7 +1592,7 @@ p {
 }
 .home__pricing .active__bg {
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
   border-radius: 10px;
   border: 0px solid transparent;
 }
@@ -1612,7 +1612,7 @@ p {
 .home__product {
   position: relative;
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
 }
 .home__product .h__bottom {
   position: absolute;
@@ -1627,7 +1627,7 @@ p {
 
 .home__product__items {
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
   border-radius: 10px;
   padding: 20px 20px 20px;
   transition: all 0.4s;
@@ -1643,7 +1643,7 @@ p {
   height: 0px;
   content: "";
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
   border-radius: 10px;
   transition: all 0.4s;
 }
@@ -1689,7 +1689,7 @@ p {
 
 .active__bg {
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
   border-radius: 10px;
   box-shadow: unset;
 }
@@ -1708,7 +1708,7 @@ p {
   position: absolute;
   inset: 0;
   content: "";
-  background-color: rgba(32, 71, 85, 0.7);
+  background-color: rgb(32 71 85 / 92%);
   backdrop-filter: blur(6px);
 }
 
@@ -2188,7 +2188,7 @@ p {
   height: 0px;
   content: "";
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
   border-radius: 10px;
   transition: all 0.4s;
 }
@@ -2281,7 +2281,7 @@ p {
 .home__server__section {
   position: relative;
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
 }
 .home__server__section .server__items {
   height: 100%;
@@ -2325,13 +2325,13 @@ p {
   padding: 14px 20px 13px;
   border-radius: 1px;
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
 }
 
 .home__complate__section {
   position: relative;
   background: rgb(67, 58, 193);
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
 }
 .home__complate__section .complate__wrap {
   position: relative;
@@ -2600,7 +2600,7 @@ p {
   height: 65px;
   text-align: center;
   line-height: 65px;
-  background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+  background: #deb462;
   border-radius: 50%;
 }
 .vps__thumb .video-btn i {
@@ -2668,7 +2668,7 @@ p {
   font-size: 14px;
   padding: 5px 15px 5px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
-  background: linear-gradient(90deg, rgb(0, 215, 255) 0%, rgb(0, 215, 255) 30%, rgb(67, 58, 193) 100%);
+  background: linear-gradient(90deg, #004270, #deb462);
 }
 .signin__signup__wrap .cmn--btn:not(:last-child) {
   margin-bottom: 7px;
@@ -3020,7 +3020,7 @@ p {
   font-weight: 500;
   color: var(--white-color);
   text-transform: capitalize;
-  background: linear-gradient(90deg, rgb(0, 215, 255) 0%, rgb(0, 215, 255) 30%, rgb(67, 58, 193) 100%);
+  background:linear-gradient(90deg, #004270, #deb462);
   display: inline-block;
   transform: skew(-21deg);
 }
@@ -3030,7 +3030,7 @@ p {
 }
 .cmn--btn:hover {
   color: var(--white-color);
-  background: linear-gradient(#f57171, #7c84f4);
+  background: #deb462;
 }
 
 .border__trans {
@@ -3171,7 +3171,7 @@ p {
   .header-section {
     background: rgb(67, 58, 193);
     border-bottom: unset;
-    background: linear-gradient(90deg, rgb(0, 215, 255) 0%, rgb(0, 215, 255) 30%, rgb(67, 58, 193) 100%);
+    background: #052f5b;;
   }
   .main-menu {
     position: absolute;
@@ -3235,7 +3235,7 @@ p {
     text-align: center;
     display: block !important;
     background: rgb(67, 58, 193);
-    background: linear-gradient(90deg, rgb(67, 58, 193) 0%, rgb(11, 4, 131) 30%, rgb(0, 215, 255) 100%);
+    background: #deb462;
   }
   .main-menu .active a {
     color: var(--white-color);

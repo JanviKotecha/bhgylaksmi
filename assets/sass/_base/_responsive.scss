@@ -116,7 +116,7 @@
 //Header Section Responsive Start
 @media screen and (max-width: 991px) {
 	.header-section {
-		background: #003059;
+		background: #052f5b !important;
 		border-bottom: unset;
 		background: linear-gradient(90deg, #004270 0%, #004270 30%, #001838 100%);
 	}
@@ -181,8 +181,8 @@
 				width: 140px;
 				text-align: center;
 				display: block !important;
-				background: #003059;
-				background: linear-gradient(90deg, #003059 0%, #001838 30%, #004270 100%);
+				background: linear-gradient(90deg, #004270, #deb462);
+				// background: linear-gradient(90deg, #003059 0%, #001838 30%, #004270 100%);
 			}
 		}
 		.active {
