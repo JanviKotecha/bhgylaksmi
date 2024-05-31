@@ -4,7 +4,7 @@
          <div class="header-wrapper">
             <div class="logo-menu">
                <a href="index.php" class="logo">
-                  <img src="assets/img/logo/logo2.png" alt="img">
+                  <img src="assets/img/logo/logo2.png" alt="img" style="width: 60% !important;">
                </a>
             </div>
             <div class="header-bar d-lg-none">
@@ -27,7 +27,7 @@
                </li>
               
             </ul>
-            <a href="contact.php" class="cmn--btn">
+            <a class="cmn--btn"  href="https://wa.me/+919662630167?text=Hello" class="cmn--btn" target="_blank">
                <span>Contact us</span>
             </a>
          </div>

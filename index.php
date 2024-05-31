@@ -36,7 +36,7 @@
                                 diverse investment options at your fingertips.
                             </p>
                             <div class="btn__grp">
-                                <a href="#0" class="cmn--btn">
+                                <a class="cmn--btn"  href="https://wa.me/+919662630167?text=Hello" class="cmn--btn" target="_blank">
                                     <span>Grab Your Trade ID Instantly</span>
                                 </a>
 
